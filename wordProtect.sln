@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordProtect", "wordProtect.csproj", "{7FBB4153-4495-40F1-A75A-314D36F3D051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBB4153-4495-40F1-A75A-314D36F3D051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBB4153-4495-40F1-A75A-314D36F3D051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBB4153-4495-40F1-A75A-314D36F3D051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBB4153-4495-40F1-A75A-314D36F3D051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3373830C-EECB-47D9-A2CE-22639F2B33A1}
+	EndGlobalSection
+EndGlobal
